@@ -1,0 +1,7 @@
+*.jar
+*.pyc
+phatjar
+thirdparty/*
+.gradle
+gradle.build
+
